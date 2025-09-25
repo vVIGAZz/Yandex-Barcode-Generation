@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\bin\Release\net9.0\MarketGeneration.exe
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\bin\Release\net9.0\MarketGeneration.deps.json
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\bin\Release\net9.0\MarketGeneration.runtimeconfig.json
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\bin\Release\net9.0\MarketGeneration.dll
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\bin\Release\net9.0\MarketGeneration.pdb
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.AssemblyInfo.cs
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.dll
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\refint\MarketGeneration.dll
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.pdb
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\MarketGeneration.genruntimeconfig.cache
+C:\Users\User\Desktop\vigaz\YandexBarcode\MarketGeneration\MarketGeneration\obj\Release\net9.0\ref\MarketGeneration.dll
